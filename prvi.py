@@ -1,1 +1,1 @@
-ssssssssssssssssssssOvo bi trebao biti kod.
+Ovo bi trebao biti kod.
